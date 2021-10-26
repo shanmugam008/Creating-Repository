@@ -20,3 +20,5 @@ $ git init
 15. Push the changes in your local repository to GitHub.
 16. $ git push origin master
 # Pushes the changes in your local repository up to the remote repository 
+
+Now I Understood Git
