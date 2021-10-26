@@ -24,3 +24,5 @@ $ git init
 Now I Understood Git --->Conflict 1
 
 Hello Spring!!!
+
+Switched to NewWorkspace
