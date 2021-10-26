@@ -21,4 +21,6 @@ $ git init
 16. $ git push origin master
 # Pushes the changes in your local repository up to the remote repository 
 
-Now I Understood Git
+Now I Understood Git --->Conflict 1
+
+Hello Spring!!!
